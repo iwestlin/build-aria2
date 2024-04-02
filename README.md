@@ -2,6 +2,9 @@
 #### introduction
 This repository will apply git's patch to aria2 and build automaticly.
 
+### patch
+https://github.com/aria2/aria2/issues/897#issuecomment-345402763
+
 #### reference
 [aria2](https://aria2.github.io)
 
